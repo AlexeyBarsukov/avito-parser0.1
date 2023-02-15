@@ -23,7 +23,7 @@ function delayedHello(
   );
 }
 
-// Below are examples of using ESLint errors suppression
+// Below1 are examples of using ESLint errors suppression
 // Here it is suppressing a missing return type definition for the greeter function.
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
